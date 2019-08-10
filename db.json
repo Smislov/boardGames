@@ -1,0 +1,44 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "title": "Magic Maze",
+      "description": "Cooperative game with real-time element where all players play with same characters",
+      "minPlayers": 2,
+      "maxPlayers": 8,
+      "year": 2019
+    },
+    {
+      "id": 2,
+      "title": "TIME Stories",
+      "description": "Cooperative game with story telling elements where temporal agents must go through a story to complete objective",
+      "minPlayers": 1,
+      "maxPlayers": 4,
+      "year": 2015
+    },
+    {
+      "id": 3,
+      "title": "High Society",
+      "description": "Players bit against each other for luxury goods trying not to be the pourest player",
+      "minPlayers": 3,
+      "maxPlayers": 5,
+      "year": 1995
+    },
+    {
+      "id": 4,
+      "title": "Dixit",
+      "description": "A story teller tries to confuse other players but have at least one recognize the story",
+      "minPlayers": 3,
+      "maxPlayers": 12,
+      "year": 2008
+    },
+    {
+      "id": 5,
+      "title": "Scythe",
+      "description": "An Engine building game set in al alternate-history",
+      "minPlayers": 1,
+      "maxPlayers": 7,
+      "year": 2016
+    }
+  ]
+}
