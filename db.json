@@ -1,44 +1,168 @@
 {
-  "games": [
-    {
-      "id": 1,
-      "title": "Magic Maze",
-      "description": "Cooperative game with real-time element where all players play with same characters",
-      "minPlayers": 2,
-      "maxPlayers": 8,
-      "year": 2019
-    },
-    {
-      "id": 2,
-      "title": "TIME Stories",
-      "description": "Cooperative game with story telling elements where temporal agents must go through a story to complete objective",
-      "minPlayers": 1,
-      "maxPlayers": 4,
-      "year": 2015
-    },
-    {
-      "id": 3,
-      "title": "High Society",
-      "description": "Players bit against each other for luxury goods trying not to be the pourest player",
-      "minPlayers": 3,
-      "maxPlayers": 5,
-      "year": 1995
-    },
-    {
-      "id": 4,
-      "title": "Dixit",
-      "description": "A story teller tries to confuse other players but have at least one recognize the story",
-      "minPlayers": 3,
-      "maxPlayers": 12,
-      "year": 2008
-    },
-    {
-      "id": 5,
-      "title": "Scythe",
-      "description": "An Engine building game set in al alternate-history",
-      "minPlayers": 1,
-      "maxPlayers": 7,
-      "year": 2016
-    }
-  ]
+  "games":[{
+		"id": 31260,
+		"name": "Agricola",
+		"minplayers": 2,
+		"maxplayers": 6,
+		"playingtime": 150,
+		"minplaytime": 30,
+		"maxplaytime": 150,
+		"minage": 12,
+		"image": "https://cf.geekdo-images.com/thumb/img/3LEMSEjJJrLsTNnUOwpiHfb5DQw=/fit-in/200x150/pic831744.jpg"
+	},
+	{
+		"id": 276830,
+		"name": "Sanctum",
+		"minplayers": 1,
+		"maxplayers": 5,
+		"playingtime": 120,
+		"minplaytime": 60,
+		"maxplaytime": 120,
+		"minage": 12,
+		"image": "https://cf.geekdo-images.com/thumb/img/tzCVMNy8QuzL3yiP_ldH1PmSr6E=/fit-in/200x150/pic4993715.jpg"
+	},
+	{
+		"id": 169786,
+		"name": "Scythe",
+		"minplayers": 1,
+		"maxplayers": 7,
+		"playingtime": 115,
+		"minplaytime": 90,
+		"maxplaytime": 115,
+		"minage": 14,
+		"image": "https://cf.geekdo-images.com/thumb/img/ZpuWhZuKrFry__SY8CTRuQp35rk=/fit-in/200x150/pic3163924.jpg"
+	},
+	{
+		"id": 176920,
+		"name": "Mission Red Planet",
+		"minplayers": 2,
+		"maxplayers": 6,
+		"playingtime": 90,
+		"minplaytime": 45,
+		"maxplaytime": 90,
+		"minage": 14,
+		"image": "https://cf.geekdo-images.com/thumb/img/J_F3ROKXx4CGj7rG5sC_nLyUW9o=/fit-in/200x150/pic2499748.jpg"
+	},
+	{
+		"id": 220,
+		"name": "High Society",
+		"minplayers": 3,
+		"maxplayers": 5,
+		"playingtime": 30,
+		"minplaytime": 15,
+		"maxplaytime": 30,
+		"minage": 10,
+		"image": "https://cf.geekdo-images.com/thumb/img/S9CsmKg8JnJsCqaxVz9Z7TVsigA=/fit-in/200x150/pic3894197.jpg"
+	},
+	{
+		"id": 31260,
+		"name": "(X2) Agricola",
+		"minplayers": 2,
+		"maxplayers": 6,
+		"playingtime": 150,
+		"minplaytime": 30,
+		"maxplaytime": 150,
+		"minage": 12,
+		"image": "https://cf.geekdo-images.com/thumb/img/3LEMSEjJJrLsTNnUOwpiHfb5DQw=/fit-in/200x150/pic831744.jpg"
+	},
+	{
+		"id": 276830,
+		"name": "(X2) Sanctum",
+		"minplayers": 1,
+		"maxplayers": 5,
+		"playingtime": 120,
+		"minplaytime": 60,
+		"maxplaytime": 120,
+		"minage": 12,
+		"image": "https://cf.geekdo-images.com/thumb/img/tzCVMNy8QuzL3yiP_ldH1PmSr6E=/fit-in/200x150/pic4993715.jpg"
+	},
+	{
+		"id": 169786,
+		"name": "(X2) Scythe",
+		"minplayers": 1,
+		"maxplayers": 7,
+		"playingtime": 115,
+		"minplaytime": 90,
+		"maxplaytime": 115,
+		"minage": 14,
+		"image": "https://cf.geekdo-images.com/thumb/img/ZpuWhZuKrFry__SY8CTRuQp35rk=/fit-in/200x150/pic3163924.jpg"
+	},
+	{
+		"id": 176920,
+		"name": "(X2) Mission Red Planet",
+		"minplayers": 2,
+		"maxplayers": 6,
+		"playingtime": 90,
+		"minplaytime": 45,
+		"maxplaytime": 90,
+		"minage": 14,
+		"image": "https://cf.geekdo-images.com/thumb/img/J_F3ROKXx4CGj7rG5sC_nLyUW9o=/fit-in/200x150/pic2499748.jpg"
+	},
+	{
+		"id": 220,
+		"name": "(X2) High Society",
+		"minplayers": 3,
+		"maxplayers": 5,
+		"playingtime": 30,
+		"minplaytime": 15,
+		"maxplaytime": 30,
+		"minage": 10,
+		"image": "https://cf.geekdo-images.com/thumb/img/S9CsmKg8JnJsCqaxVz9Z7TVsigA=/fit-in/200x150/pic3894197.jpg"
+	},
+	{
+		"id": 31260,
+		"name": "(X3) Agricola",
+		"minplayers": 2,
+		"maxplayers": 6,
+		"playingtime": 150,
+		"minplaytime": 30,
+		"maxplaytime": 150,
+		"minage": 12,
+		"image": "https://cf.geekdo-images.com/thumb/img/3LEMSEjJJrLsTNnUOwpiHfb5DQw=/fit-in/200x150/pic831744.jpg"
+	},
+	{
+		"id": 276830,
+		"name": "(X3) Sanctum",
+		"minplayers": 1,
+		"maxplayers": 5,
+		"playingtime": 120,
+		"minplaytime": 60,
+		"maxplaytime": 120,
+		"minage": 12,
+		"image": "https://cf.geekdo-images.com/thumb/img/tzCVMNy8QuzL3yiP_ldH1PmSr6E=/fit-in/200x150/pic4993715.jpg"
+	},
+	{
+		"id": 169786,
+		"name": "(C3) Scythe",
+		"minplayers": 1,
+		"maxplayers": 7,
+		"playingtime": 115,
+		"minplaytime": 90,
+		"maxplaytime": 115,
+		"minage": 14,
+		"image": "https://cf.geekdo-images.com/thumb/img/ZpuWhZuKrFry__SY8CTRuQp35rk=/fit-in/200x150/pic3163924.jpg"
+	},
+	{
+		"id": 176920,
+		"name": "(X3) Mission Red Planet",
+		"minplayers": 2,
+		"maxplayers": 6,
+		"playingtime": 90,
+		"minplaytime": 45,
+		"maxplaytime": 90,
+		"minage": 14,
+		"image": "https://cf.geekdo-images.com/thumb/img/J_F3ROKXx4CGj7rG5sC_nLyUW9o=/fit-in/200x150/pic2499748.jpg"
+	},
+	{
+		"id": 220,
+		"name": "(X3) High Society",
+		"minplayers": 3,
+		"maxplayers": 5,
+		"playingtime": 30,
+		"minplaytime": 15,
+		"maxplaytime": 30,
+		"minage": 10,
+		"image": "https://cf.geekdo-images.com/thumb/img/S9CsmKg8JnJsCqaxVz9Z7TVsigA=/fit-in/200x150/pic3894197.jpg"
+	}
+]
 }
